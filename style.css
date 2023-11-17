@@ -44,7 +44,8 @@ body{
     background-color: #28A9F1;
     margin-bottom: 0;
     font-size: 24px;
-    font-weight: bold;   
+    font-weight: bold;
+    color: white;   
 }
 #btn:hover{
     background-color: darkcyan;
